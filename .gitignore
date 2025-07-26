@@ -1,0 +1,26 @@
+
+---
+
+### 📁 `.gitignore`
+```gitignore
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+dist/
